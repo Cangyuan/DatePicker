@@ -4,6 +4,9 @@ html{-ms-overflow-style:none;overflow:-moz-scrollbars-none}html::-webkit-scrollb
     height: 100%;
     max-width: 375px;
 }
+.ivu-tabs-nav-next,.ivu-tabs-nav-prev {
+  display: none;
+}
 .content li {
   height: 80px;
   border: 1px solid #CCC;
