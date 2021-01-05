@@ -16,7 +16,7 @@
     "devSinglePage": "cross-env fileName=jitter node build/dev-server.js"
   },
   "dependencies": {
-    "axios": "^0.16.2",
+    "axios": "^0.21.1",
     "babel-runtime": "^6.0.0",
     "better-scroll": "^0.1.15",
     "bluebird": "^3.5.0",
